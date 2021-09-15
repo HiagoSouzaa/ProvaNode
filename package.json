@@ -1,0 +1,23 @@
+{
+  "name": "ProvaNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HiagoSouzaa/ProvaNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HiagoSouzaa/ProvaNode/issues"
+  },
+  "homepage": "https://github.com/HiagoSouzaa/ProvaNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
